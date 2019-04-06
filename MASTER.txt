@@ -2,3 +2,9 @@
 <Version: 1.01>
 /data/Map001.json https://raw.githubusercontent.com/OKTOBRLOVE/TIMBERFALLS-UPDATE/master/Map001.json
 <End of Version>
+
+<Version: 1.02>
+/js/plugins/SRD_PreloaderCore.js https://raw.githubusercontent.com/OKTOBRLOVE/TIMBERFALLS-UPDATE/master/SRD_PreloaderCore.js
+<End of Version>
+
+
