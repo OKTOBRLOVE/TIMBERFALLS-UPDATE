@@ -10,3 +10,6 @@
 <Version: 1.03>
 /audio/se/glitchedtones-twigsnap.ogg https://www.filehosting.org/file/details/792040/glitchedtones-twigsnap.ogg
 <End of Version>
+
+<Version: 1.04>
+/data/Map004.json
