@@ -14,3 +14,7 @@
 <Version: 1.04>
 /data/Map004.json https://github.com/OKTOBRLOVE/TIMBERFALLS-UPDATE/raw/master/Map004.json
 <End of Version>
+
+<Version: 1.05>
+/audio/se/glitchedtones-twigsnap.ogg https://raw.githubusercontent.com/OKTOBRLOVE/TIMBERFALLS-UPDATE/master/glitchedtones-twigsnap.ogg
+<End of Version>
